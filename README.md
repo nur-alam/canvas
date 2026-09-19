@@ -9,13 +9,17 @@ A Figma-style infinite canvas built with React + TypeScript (Vite).
 - **Minimap preview** in the bottom-right corner while dragging
 - Sample cards placed in world space so you can explore the canvas
 
-## Live preview
+## GitHub Pages
 
-**GitHub Pages:** https://nur-alam.github.io/canvas/
+Site files are published on the `gh-pages` branch.
 
-> First-time setup (one click): repo **Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: `gh-pages` / `/ (root)` → Save**
+**URL:** https://nur-alam.github.io/canvas/
 
-**CDN mirror (works immediately):** https://cdn.jsdelivr.net/gh/nur-alam/canvas@gh-pages/index.html
+**Enable once (required):** open
+[Settings → Pages](https://github.com/nur-alam/canvas/settings/pages)
+→ **Source: Deploy from a branch** → Branch **`gh-pages`** / **`/ (root)`** → **Save**
+
+After that, the URL above will serve the app.
 
 ## Run locally
 
